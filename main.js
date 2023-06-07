@@ -5,7 +5,7 @@ var n = Math.random()
 var Lovecalculator = n*100 
 var lovescore = Math.floor(Lovecalculator) + 1
 
-if (lovescore > 70){
+if (lovescore > 60){
     alert("your love score is "+lovescore+" you love each other")
 }  
 else{
